@@ -15,3 +15,8 @@
 	
 - **Mendeley**
 	Software for literature review paper management, details in lit_Review_Tools.md file.
+
+- ** Universite de Bourgogne PhD Thesis Template**
+	Updated latex template ([link](http://www.multiagent.fr/ThesisStyle#Style_for_UB)).
+	Some thesis writing skills ([link](https://github.com/CansenJIANG/mustReadPapers/blob/master/PhD_Thesis_Writing_Skills.pdf)).
+
