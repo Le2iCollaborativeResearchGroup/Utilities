@@ -25,3 +25,7 @@
 	**The key difference between a projective and affine transformation is that the vector *v* is not null for a projectivity. This is responsible for the non-linear effects of the projectivity. Affine transformation perserves infinity, while projective transformation does NOT.  Also, inhomogeneous coordinate can NOT projective transformation problem.**
 	![](imgs/20170518-174544.png)
 	![](imgs/20170518-175917.png)
+	
+	**Affine Rectification**
+	![](imgs/20170519-120238.png)
+	![](imgs/20170519-120315.png)
