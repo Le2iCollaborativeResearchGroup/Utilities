@@ -20,3 +20,5 @@
 	Updated latex template ([link](http://www.multiagent.fr/ThesisStyle#Style_for_UB)).
 	Some thesis writing skills ([link](https://github.com/CansenJIANG/mustReadPapers/blob/master/PhD_Thesis_Writing_Skills.pdf)).
 
+- **KLT  Feature Tracker Implementation**
+	A very nice implementation of KLT feature tracking algorithm tutorial with codes in Matlab, C++, Java, GPU ([link](http://cecas.clemson.edu/~stb/klt/)).
