@@ -22,3 +22,6 @@
 
 - **KLT  Feature Tracker Implementation**
 	A very nice implementation of KLT feature tracking algorithm tutorial with codes in Matlab, C++, Java, GPU ([link](http://cecas.clemson.edu/~stb/klt/)).
+	
+- **ViBe: Video Background Extractor**
+	An implementation of ViBe for static or small motion video background subtraction algorithm ([TIP paper (900 citations)](http://orbi.ulg.ac.be/bitstream/2268/157176/1/VanDroogenbroeck2014ViBe.pdf), [C++ codes](http://www.telecom.ulg.ac.be/research/vibe/)). 
