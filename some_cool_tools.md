@@ -25,3 +25,19 @@
 	
 - **ViBe: Video Background Extractor**
 	An implementation of ViBe for static or small motion video background subtraction algorithm ([TIP paper (900 citations)](http://orbi.ulg.ac.be/bitstream/2268/157176/1/VanDroogenbroeck2014ViBe.pdf), [C++ codes](http://www.telecom.ulg.ac.be/research/vibe/)). 
+=======
+- **Kazam Screencaster**
+	Kazam is a simple screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format ([link](https://launchpad.net/kazam)).
+	
+- **RecordMyDesktop**
+	RecordMyDesktop is an alternative software to Kazam Screencaster. I (Cansen) use it all the time, it can be download directly using Ubuntu Software Center (or [this link](https://apps.ubuntu.com/cat/applications/quantal/gtk-recordmydesktop/)).
+	
+- **OpenShot Video Maker**
+	OpenShot Video Editor is a free and open-source video editor for FreeBSD, Linux, macOS, and Windows. The project was started in August 2008 by Jonathan Thomas, with the objective of providing a stable, free, and friendly to use video editor. OpenShot's core video editing functionality is implemented in a C++ library, libopenshot. OpenShot uses the Qt toolkit and offers a Python API ([link](http://www.openshot.org/)).
+	
+- **Okular PDF Reader**
+	A very handy PDF reader for Linux that you can do freely anotations, just like Adobe PDF Reader in Windows. You can install directly from Ubuntu Software Center (or [this link](https://apps.ubuntu.com/cat/applications/precise/okular/)).
+	
+- **Gnuplot**
+	Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed (i.e., you don't have to pay for it). It was originally created to allow scientists and students to visualize mathematical functions and data interactively, but has grown to support many non-interactive uses such as web scripting.  ([link](http://gnuplot.sourceforge.net/)).
+
