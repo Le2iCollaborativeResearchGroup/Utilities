@@ -1,4 +1,4 @@
-#**How To Compress Your High Quality Video**
+#How To Compress Your High Quality Video
 
 1. Install VLC video player ([link](http://www.videolan.org/vlc/index.html)).
 
