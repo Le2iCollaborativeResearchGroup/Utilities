@@ -44,4 +44,19 @@
 - **VLC Player for Video Compression**
 	Check [this tutorial](https://github.com/Le2iCollaborativeResearchGroup/Utilities/blob/master/Compress_Your_Video.md) if you need to compress your video with High Quality.
 	
+- **Presentation with Video using Ubuntu**
+	It is very easy to link your video with your presentation using PDFPC tool ([link](https://github.com/pdfpc/pdfpc)). The link contains a detailed installation guide. 
 	
+	Follow is an example how to integrate your video with your Latex beamer file:
+> \begin{frame}{PDF Video Example}
+> \frametitle{PDF Video Example}
+> \href{run:videos/Video.avi?loop}
+> {\includegraphics[width=1.0\paperwidth,height=0.5\paperwidth]{images/CoverImage.png}}
+> \centering
+> This is the caption of example video
+> \end{frame}
+
+	**To do the presentation, open a terminal (Ctrl+T), then use the following command:**
+> $ pdfpc myslides.pdf
+
+	**NOTE**: if you have very heavy video,** you might need to wait for the video buffering**.
