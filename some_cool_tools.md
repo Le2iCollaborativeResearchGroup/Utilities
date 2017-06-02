@@ -28,3 +28,8 @@
 	
 - **OpenShot**
 	OpenShot Video Editor is a free and open-source video editor for FreeBSD, Linux, macOS, and Windows. The project was started in August 2008 by Jonathan Thomas, with the objective of providing a stable, free, and friendly to use video editor. OpenShot's core video editing functionality is implemented in a C++ library, libopenshot. OpenShot uses the Qt toolkit and offers a Python API ([link](http://www.openshot.org/)).
+
+- **Gnuplot**
+	Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed (i.e., you don't have to pay for it). It was originally created to allow scientists and students to visualize mathematical functions and data interactively, but has grown to support many non-interactive uses such as web scripting.  ([link](http://gnuplot.sourceforge.net/)).
+	
+
