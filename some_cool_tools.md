@@ -66,3 +66,6 @@
 ```
 
 	NOTE: if you have very heavy video, you might need to wait for the video buffering.
+	
+- **Image Segmentation using Unsupervised Watershed**
+Image Segmentation using Unsupervised Watershed Algorithm with an Over-segmentation Reduction Technique ([Tutorial with C++ code](https://www.codeproject.com/Articles/751744/Image-Segmentation-using-Unsupervised-Watershed-Al)).
