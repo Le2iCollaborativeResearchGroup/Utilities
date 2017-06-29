@@ -10,6 +10,11 @@
 	Latex file editor. 
 	One small skill: when you have independent .tex file for each chapter of your paper. Set the main file as master, then you can compile your file in any chapter .tex files. ![](imgs/20170505-155236.png)
 	
+	**Define your own latex style template.**
+	For example, when you write your PhD thesis, there are a lot of *.sty .cls* files that you need to included to your *main.tex* file. To manage these files in an elegant maner, you can add them to your system configuration folder. In linux, see [this tutorial](https://tex.stackexchange.com/questions/1137/where-do-i-place-my-own-sty-or-cls-files-to-make-them-available-to-all-my-te). Or the following image, which works well for me (Cansen). Be careful, **.cfg .def** files should be in the same folder of the *main.tex* file. Some more skills, when you manage a lot of chapters of your thesis, you can create multiple independent *chapters.tex* files, then you use the command "*\include{chapters}*" or "*\input{chapters}*". "*\include{...}*" starts the content from a new page, while "*\input{...}*" continue the content.
+	![](imgs/20170629-093010.png)
+	
+	
 - **Remarkable**
 	Markdown file editor, very straight forward to see the instance result of your .md file. It provides a GUI with sufficient funtionalities like MS Word editor.![](imgs/20170505-155953.png)
 	
