@@ -1,4 +1,4 @@
-#Outline of Image Segmentation and Background Modeling using GMM
+# Outline of Image Segmentation and Background Modeling using GMM
 
 **Objective**
 
@@ -9,7 +9,7 @@ Example: CameraMan image segmentation using EM algorithm.
 Figure 1. CameraMan Image Segmentation using EM algorithm.
 
 
-#Graphical Explaination
+## Graphical Explaination
 
 **Step 1. Initialization**:
 
@@ -29,13 +29,13 @@ Figure 4. Envolution of Gaussian Mixture Model in EM Iterations.
 
 Once the EM algorithm converge, we can estimate two stable Gaussians. To segment the image, we need to assign each pixel to be either belonging to Gaussian 1 or Gaussian 2. To do so, we compute the probability using Gaussian 1 and Gaussian 2. Take the Optimal GMM in Fig. 4 as example, intensity value 150 has probability close to zero, while probability about 0.01. Accordingly, for all the pixels that has intensity of 150 will be classified as Gaussian 2. Doing so, we can get segmentation result as shown in Fig. 1.
 
-#Extension to Background Modelling
+## Extension to Background Modelling
 
 For background modelling of static camera, let a set of images taken from t = 0 to t = n, each pixel as has n different intensities (or color values). Then we model K Gaussians of the n intensity values, similar to the former discussions. Accordingly, for a N x M size image, each pixel we model K Gaussians, we have totally N x M x K Gaussians to represent the state of the image pixels. Each new observation will be used to update the set of Gaussians.
 
 To identify the background Gaussians and  foreground Gaussians, we basically consider the Gaussians with higher weight while smaller varances, details can be found in Stauffer and Grimson's paper [Adaptive background mixture models for real-time tracking](http://www.ai.mit.edu/projects/vsam/Publications/stauffer_cvpr98_track.pdf).
 
-#Supplementary Materials
+## Supplementary Materials
 
 1. EM_demo.m %Matlab file for image segmentation using EM algorithm, see Fig. 1. 
 
