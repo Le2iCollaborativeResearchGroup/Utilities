@@ -44,3 +44,5 @@ To identify the background Gaussians and  foreground Gaussians, we basically con
 
 3. GMMExample_2D.m % Synthetic experiment for GMM on 1-D data clustering
 ![](imgs/20170629-215817.png)
+
+4. [Simple video tutorial](https://www.youtube.com/watch?v=iQoXFmbXRJA)
